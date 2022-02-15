@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "side_4=0,open=false": { "model": "tech:block/blast_furnace_base_door_0_model" },
+    "side_4=0,open=true": { "model": "tech:block/blast_furnace_base_door_0_model_1" },
+    "side_4=1,open=false": { "model": "tech:block/blast_furnace_base_door_1_model" },
+    "side_4=1,open=true": { "model": "tech:block/blast_furnace_base_door_1_model_1" },
+    "side_4=2,open=false": { "model": "tech:block/blast_furnace_base_door_2_model" },
+    "side_4=2,open=true": { "model": "tech:block/blast_furnace_base_door_2_model_1" },
+    "side_4=3,open=false": { "model": "tech:block/blast_furnace_base_door_3_model" },
+    "side_4=3,open=true": { "model": "tech:block/blast_furnace_base_door_3_model_1" }
+  }
+}

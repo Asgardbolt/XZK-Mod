@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "tech:block/xenotime_very_deep_model" }
+  }
+}

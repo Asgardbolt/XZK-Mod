@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "tech:block/gold_ore_very_deep"
+  }
+}

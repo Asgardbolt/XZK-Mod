@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "tech:block/borax_ore_model" }
+  }
+}

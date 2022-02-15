@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "tech:block/deep_portal_to_deep_model" }
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "tech:block/silver_ore_model" }
+  }
+}

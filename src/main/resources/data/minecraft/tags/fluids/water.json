@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tech:mercury",
+    "tech:mercury_flowing",
+    "tech:bromine",
+    "tech:bromine_flowing",
+    "tech:distilled_water",
+    "tech:distilled_water_flowing"
+  ]
+}

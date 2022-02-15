@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "tech:block/zircon_products_model" }
+  }
+}

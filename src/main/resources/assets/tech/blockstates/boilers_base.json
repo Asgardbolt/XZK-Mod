@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=west": { "model": "tech:block/boilers_base_model_0" },
+    "facing=north": { "model": "tech:block/boilers_base_model_1" },
+    "facing=east": { "model": "tech:block/boilers_base_model_2" },
+    "facing=south": { "model": "tech:block/boilers_base_model_3" }
+  }
+}

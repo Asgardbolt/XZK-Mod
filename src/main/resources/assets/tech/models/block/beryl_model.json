@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tech:block/beryl_bottom",
+    "up": "tech:block/beryl_top",
+    "north": "tech:block/beryl",
+    "east": "tech:block/beryl",
+    "south": "tech:block/beryl",
+    "west": "tech:block/beryl",
+    "particle": "tech:block/beryl"
+  }
+}

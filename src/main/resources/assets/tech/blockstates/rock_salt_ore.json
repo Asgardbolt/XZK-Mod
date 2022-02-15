@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "tech:block/rock_salt_ore_model" }
+  }
+}

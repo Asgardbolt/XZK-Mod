@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "tech:block/pollucite_deep_model" }
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "tech:block/fe_c_block_model" }
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "tech:block/boilers_base_core_model" }
+  }
+}
